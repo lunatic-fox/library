@@ -22,8 +22,7 @@ Vou explicar como funcionam alguns mecanismos de entrada dos desafios da platafo
 ~~~javascript
 const entrada = gets();
 ~~~
-
-<br>
+##
 
 ### Java `new Scanner(System.in)`
 ~~~java
@@ -35,8 +34,7 @@ public class Main {
     }
 }
 ~~~
-
-<br>
+##
 
 ### Kotlin `readLine()`
 ~~~kotlin
@@ -72,9 +70,7 @@ const entrada1 = gets(); // abacaxi
 const entrada2 = gets(); // banana
 const entrada3 = gets(); // cereja
 ~~~
-
-<br>
-
+##
 ### Java
 ~~~java
 import java.util.Scanner;
@@ -89,9 +85,7 @@ public class Main {
     }
 }
 ~~~
-
-<br>
-
+##
 ### Kotlin
 ~~~kotlin
 fun main() {
@@ -100,7 +94,6 @@ fun main() {
     val entrada3 = readLine() ?: "" // cereja
 }
 ~~~
-
 <br>
 
 ## Exemplo com o código de soma
@@ -135,9 +128,7 @@ const entrada2 = Number(gets()); // 7
 const soma = entrada1 + entrada2;
 console.log(soma); // 22
 ~~~
-
-<br>
-
+##
 ### Java
 ~~~java
 import java.util.Scanner;
@@ -154,9 +145,7 @@ public class Main {
     }
 }
 ~~~
-
-<br>
-
+##
 ### Kotlin
 
 ~~~kotlin
@@ -172,9 +161,13 @@ fun main() {
 &nbsp;&nbsp;&nbsp;&nbsp;Caso mudemos a entrada o nosso código deverá exibir a saída esperada para cada ocasião.
 
 ### Exemplos
-Considerando o algoritmo acima que "pula" a segunda entrada temos:
+&nbsp;&nbsp;&nbsp;&nbsp;Considerando o algoritmo acima que "pula" a segunda entrada temos:
+
+<span align="center">
 
 ***Teste 1***
+
+</span>
 
 *Entrada*
 ~~~txt
@@ -187,9 +180,13 @@ Considerando o algoritmo acima que "pula" a segunda entrada temos:
 40
 ~~~
 
-<br>
+##
+
+<span align="center">
 
 ***Teste 2***
+
+</span>
 
 *Entrada*
 ~~~txt
