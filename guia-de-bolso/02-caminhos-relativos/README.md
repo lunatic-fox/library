@@ -22,7 +22,7 @@ C: ↴
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aqui iniciamos nosso caminho em `C:`, ou seja, na unidade de disco principal da máquina. E então continuamos seguindo o fluxo de pastas (diretórios) até chegar ao arquivo alvo, nesse caso o `index.html`.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Como nosso caminho tem o início, meio e fim definidos então que se trata de um caminho absoluto.
+&nbsp;&nbsp;&nbsp;&nbsp;Como nosso caminho tem o início, meio e fim definidos, então se trata de um caminho absoluto.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Agora vamos ver um caminho que podemos considerar absoluto para internet.
 
@@ -53,6 +53,8 @@ https:// ↴
 ~~~
 
 &nbsp;&nbsp;&nbsp;&nbsp;Entretanto, se a imagem ou outro arquivo estiver dentro do escopo do nosso projeto é mais interessante que utilizemos o caminho relativo.
+
+<br>
 
 ## Caminhos relativos
 &nbsp;&nbsp;&nbsp;&nbsp;Agora sim chegou a ora de falar deles!!!
