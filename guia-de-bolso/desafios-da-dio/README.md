@@ -1,10 +1,8 @@
 <div align="center">
+    <img src="banner.png" width="500px" />
+</div><br>
 
-![](banner.png)
-
-</div>
-
-Vou explicar como funcionam alguns mecanismos de entrada dos desafios da plataforma.
+&nbsp;&nbsp;&nbsp;&nbsp;Vou explicar como funcionam alguns mecanismos de entrada dos desafios da plataforma.
 
 ## Entradas
 
@@ -203,3 +201,13 @@ fun main() {
 
 ### Observações
 &nbsp;&nbsp;&nbsp;&nbsp;Existem maneiras diferentes de obter dados numéricos em cada linguagem é sempre interessante que você pesquise as várias formas que não foram abordadas aqui, pois a finalidade é explicar da forma mais simples.
+
+<br>
+
+<div align="center">
+    
+Feito com ❤️ por mim.
+
+**Josélio de S. C. Júnior - 2021**
+
+</div>
