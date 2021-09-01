@@ -34,6 +34,8 @@ public class Main {
 ~~~
 ##
 
+[//]: # (Josélio de S. C. Júnior - joseliojunior)
+
 ### Kotlin `readLine()`
 ~~~kotlin
 fun main() {
@@ -157,7 +159,7 @@ fun main() {
 ~~~
 
 &nbsp;&nbsp;&nbsp;&nbsp;Caso mudemos a entrada o nosso código deverá exibir a saída esperada para cada ocasião.
-
+[//]: # (Josélio de S. C. Júnior - joseliojunior)
 ### Exemplos
 &nbsp;&nbsp;&nbsp;&nbsp;Considerando o algoritmo acima que "pula" a segunda entrada temos:
 
