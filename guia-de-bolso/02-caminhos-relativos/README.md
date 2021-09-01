@@ -21,7 +21,7 @@ C: ↴
 &nbsp;&nbsp;&nbsp;&nbsp;Uma coisa importante é que caminhos do computador usam ` \ ` que é diferente de quando vamos fazer a mesma referência em algum arquivo, sendo específico para endereçamento dentro da máquina.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aqui iniciamos nosso caminho em `C:`, ou seja, na unidade de disco principal da máquina. E então continuamos seguindo o fluxo de pastas (diretórios) até chegar ao arquivo alvo, nesse caso o `index.html`.
-
+[//]: # (Josélio de S. C. Júnior - joseliojunior)
 &nbsp;&nbsp;&nbsp;&nbsp;Como nosso caminho tem o início, meio e fim definidos, então se trata de um caminho absoluto.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Agora vamos ver um caminho que podemos considerar absoluto para internet.
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/you/pink-floyd/main/src/capa-do-disco.png
 ~~~
 
 &nbsp;&nbsp;&nbsp;&nbsp;Porém passa a ser diferente no contexto do projeto `scorpions`, apesar da escrita ser a mesma.
-
+[//]: # (Josélio de S. C. Júnior - joseliojunior)
 &nbsp;&nbsp;&nbsp;&nbsp;Para reforçar, imagine que o `./` sintetizasse a ideia que: 
 
 <div align="center">
