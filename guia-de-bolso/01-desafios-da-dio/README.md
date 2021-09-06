@@ -16,13 +16,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Dependendo da linguagem de programação que você esteja aprendendo o método de entrada é diferente. Aqui abaixo tem uma pequena lista com a linguagem e o método de entrada.
 
-### JavaScript `gets()`
+### ![](http://joseliojunior.github.io/ghc-tags/lang/javascript/rounded.svg)
 ~~~javascript
 const entrada = gets();
 ~~~
 ##
 
-### Java `new Scanner(System.in)`
+### ![](http://joseliojunior.github.io/ghc-tags/lang/java/rounded.svg)
 ~~~java
 import java.util.Scanner;
 
@@ -36,7 +36,7 @@ public class Main {
 
 [//]: # (Josélio de S. C. Júnior - joseliojunior)
 
-### Kotlin `readLine()`
+### ![](http://joseliojunior.github.io/ghc-tags/lang/kotlin/rounded.svg)
 ~~~kotlin
 fun main() {
     val entrada = readLine()!! // Forma assertiva
@@ -64,14 +64,14 @@ cereja
 
 &nbsp;&nbsp;&nbsp;&nbsp;Onde precisamos pegar os valores de cada linha e guardar em uma variável, como faríamos?
 
-### JavaScript
+### ![](http://joseliojunior.github.io/ghc-tags/lang/javascript/rounded.svg)
 ~~~javascript
 const entrada1 = gets(); // abacaxi
 const entrada2 = gets(); // banana
 const entrada3 = gets(); // cereja
 ~~~
 ##
-### Java
+### ![](http://joseliojunior.github.io/ghc-tags/lang/java/rounded.svg)
 ~~~java
 import java.util.Scanner;
 
@@ -86,7 +86,7 @@ public class Main {
 }
 ~~~
 ##
-### Kotlin
+### ![](http://joseliojunior.github.io/ghc-tags/lang/kotlin/rounded.svg)
 ~~~kotlin
 fun main() {
     val entrada1 = readLine() ?: "" // abacaxi
@@ -119,7 +119,7 @@ FIM DO PROCESSO
 
 &nbsp;&nbsp;&nbsp;&nbsp;Para que possamos "pular" a segunda entrada basta executar a função de entrada sem nunca atribui-la a uma variável, dessa maneira a entrada é obtida, porém nunca armazenada.
 
-### JavaScript
+### ![](http://joseliojunior.github.io/ghc-tags/lang/javascript/rounded.svg)
 ~~~javascript
 const entrada1 = Number(gets()); // 15
 gets(); // "20"
@@ -129,7 +129,7 @@ const soma = entrada1 + entrada2;
 console.log(soma); // 22
 ~~~
 ##
-### Java
+### ![](http://joseliojunior.github.io/ghc-tags/lang/java/rounded.svg)
 ~~~java
 import java.util.Scanner;
 
@@ -146,7 +146,7 @@ public class Main {
 }
 ~~~
 ##
-### Kotlin
+### ![](http://joseliojunior.github.io/ghc-tags/lang/kotlin/rounded.svg)
 
 ~~~kotlin
 fun main() {
