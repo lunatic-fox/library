@@ -47,7 +47,7 @@ https:// ↴
 
 &nbsp;&nbsp;&nbsp;&nbsp;Um exemplo é quando colocamos uma imagem que está em algum outro endereço da internet, daí precisaremos utilizar o caminho absoluto.
 
-### Exemplo em arquivo `.html` de referência a uma imagem
+### Exemplo em arquivo ![](http://joseliojunior.github.io/ghc-tags/lang/html/rounded-small.svg) de referência a uma imagem
 ~~~html
 <img src="https://sitedasimagens.com/imagem.png" alt="imagem" />
 ~~~
@@ -82,6 +82,7 @@ scorpions
 
 </span>
 
+![](http://joseliojunior.github.io/ghc-tags/lang/html/rounded-small.svg)
 ~~~html
 <img src="https://raw.githubusercontent.com/you/scorpions/main/src/capa-do-disco.png" alt="Capa do disco do Scorpions"/>
 ~~~
@@ -92,6 +93,7 @@ pink-floyd
 
 </span>
 
+![](http://joseliojunior.github.io/ghc-tags/lang/html/rounded-small.svg)
 ~~~html
 <img src="https://raw.githubusercontent.com/you/pink-floyd/main/src/capa-do-disco.png" alt="Capa do disco do Pink Floyd"/>
 ~~~
@@ -111,6 +113,7 @@ scorpions
 
 </span>
 
+![](http://joseliojunior.github.io/ghc-tags/lang/html/rounded-small.svg)
 ~~~html
 <img src="./src/capa-do-disco.png" alt="Capa do disco do Scorpions"/>
 ~~~
@@ -121,6 +124,7 @@ pink-floyd
 
 </span>
 
+![](http://joseliojunior.github.io/ghc-tags/lang/html/rounded-small.svg)
 ~~~html
 <img src="./src/capa-do-disco.png" alt="Capa do disco do Pink Floyd"/>
 ~~~
